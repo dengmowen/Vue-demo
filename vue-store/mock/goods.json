@@ -1,0 +1,31 @@
+{
+  "status": "0",
+  "msg": "",
+  "count": "0",
+  "result": [
+    {
+      "productId": "100001",
+      "productName": "小米6",
+      "salePrice": "2999",
+      "productImg": "1.jpg"
+    },
+    {
+      "productId": "100002",
+      "productName": "音箱",
+      "salePrice": "199",
+      "productImg": "2.jpg"
+    },
+    {
+      "productId": "100003",
+      "productName": "小米5",
+      "salePrice": "1999",
+      "productImg": "3.jpg"
+    },
+    {
+      "productId": "100004",
+      "productName": "小米平衡车",
+      "salePrice": "1299",
+      "productImg": "4.jpg"
+    }
+  ]
+}
